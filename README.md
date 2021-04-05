@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leonardo Mendonça, and I'm from Brazil (🇧🇷). I've been working Full Stack Developer since 2019. Actually I work as  Full Stack Jr. at Stefanini. I have a bachelor's degree in Computer Science (I graduated in 2019) and computer technician.
+My name is Leonardo Mendonça, and I'm from Brazil (🇧🇷). I've been working Full Stack Developer since 2019. Actually I work as Application Developer at IBM. I have a bachelor's degree in Computer Science (I graduated in 2019) and computer technician.
 
 Would you like to find me?
 
