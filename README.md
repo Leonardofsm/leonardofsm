@@ -6,6 +6,9 @@ Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Leonardofsm_)](https://twitter.com/Leonardofsm_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-mendonça)](https://www.linkedin.com/in/leonardo-mendonça)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram?style=flat-square&logo=Instagram&logoColor=blue&link=[https://www.linkedin.com/in/leonardo-mendonça](https://www.instagram.com/lmendonca_dev/))]([https://www.linkedin.com/in/leonardo-mendonça](https://www.instagram.com/lmendonca_dev/))
+
+My website: https://portifolionextjs.vercel.app
 
 ## ⬛️  Skills
 <p align="left">
@@ -14,7 +17,7 @@ Would you like to find me?
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p><br>
-9
+
 
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leonardofsm&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=lyssacavalcanti&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyssacavalcanti&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
@@ -24,6 +27,8 @@ Would you like to find me?
 ![](https://github-profile-trophy.vercel.app/?username=Leonardofsm&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <br><br>
 
+![image title](https://rushter.com/counter.svg)
+</br>
 
 <!--
 **Leonardofsm/leonardofsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
